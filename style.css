@@ -12,4 +12,6 @@
   align-items: center;
   justify-content: center;
   font-size: 40px;
+  cursor: pointer;
+  user-select: none;
 }
