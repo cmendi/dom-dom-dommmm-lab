@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", function () {
   // Create text for the button and assign it a variable.
   let btnText = document.createTextNode("Add Square");
 
-  // Fun fact of the day: Blink-182 decided to incorporate their band under a funny name – ‘Poo Poo Butt LLC’ – as they thought it’s funny to hear accountants use the name in important conversations on a daily basis.
+  // FUN FACT OF THE DAY: Blink-182 decided to incorporate their band under a funny name – ‘Poo Poo Butt LLC’ – as they thought it’s funny to hear accountants use the name in important conversations on a daily basis.
 
   // Add text to button
   btn.appendChild(btnText);
